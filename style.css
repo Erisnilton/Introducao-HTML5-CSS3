@@ -1,0 +1,48 @@
+body {
+    background-color: #fcfcfc;
+    margin: 0;
+}
+
+.container {
+    margin: 15px;
+}
+
+.header_profile {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.img_profile {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.post {
+    background-color: #fff;
+    padding: 15px 10px 5px 0;
+    border-radius: 5px;
+}
+.img_post {
+    border-radius: 5px;
+    width: 50%;
+}
+#title, .subtitle, .post_title {
+    color: blue;
+}
+
+#title {
+    font-size: 10px;
+}
+.subtitle {
+    
+}
+
+.post_title {
+    font-size: 16px;
+    margin-top: 15px;
+    font-style: ;
+}
