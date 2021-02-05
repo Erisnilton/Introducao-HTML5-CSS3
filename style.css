@@ -7,6 +7,9 @@ a {
     text-decoration: none;
 }
 
+footer {
+    width: 100%;
+}
 
 .container {
     width: 60%;
@@ -55,8 +58,16 @@ a {
     width: 100%;
 }
 
-footer {
-    width: 100%;
+.read_more {
+    width: 100px;
+    padding: 10px;
+    background-color: blue;
+    cursor: pointer;
+}
+
+.read_more a {
+    color: #fff;
+    text-align: center;
 }
 
 .social {
