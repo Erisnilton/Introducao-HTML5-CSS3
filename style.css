@@ -67,6 +67,20 @@ footer {
     margin-top: 10%;
 }
 .social li  {
+    display: flex;
+    align-items: center;
     margin-bottom: 15px;
+}
+
+.facebook{
+    display: flex;
+}
+
+.social img {
+    width: 20px;
+}
+
+.social a {
+    margin-left: 5px;
 }
 
